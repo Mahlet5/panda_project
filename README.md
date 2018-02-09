@@ -1,5 +1,6 @@
 # panda_project
 Welcome to pando project 1
-hiii
-##Project start
+THINGS I WANT TO WORK ON
+ 1.ANGULAR AND NODE.JS
+ 2.BOOTSTRAP
 
